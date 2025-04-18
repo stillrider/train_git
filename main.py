@@ -12,3 +12,6 @@ def feature():
 def main():
     for i in range(10):
     print("Я люблю программировать")
+
+def pay():
+    print("pay")
