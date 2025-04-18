@@ -13,5 +13,10 @@ def main():
     for i in range(10):
     print("Я люблю программировать")
 
+
 def weather():
     print("weather")
+
+def pay():
+    print("pay")
+
